@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Youth for Challenge mark, traced from the brand logo, on a white tile so it reads on light and dark tabs -->
+  <rect width="64" height="64" rx="14" fill="#fff"/>
+  <g transform="translate(32 32) scale(0.86) translate(-30 -30.5)">
+    <g fill="none" stroke="#442048" stroke-width="7.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M49 11.5 27.5 30.5 49 49.5M27.5 30.5H56.5"/>
+      <path d="M3.5 30.5H16.5"/>
+    </g>
+    <defs>
+      <path id="drop" d="M0 0C-1.4-3.2-4.1-7.2-4.1-10.8A4.1 4.1 0 0 1 4.1-10.8C4.1-7.2 1.4-3.2 0 0Z"/>
+    </defs>
+    <use href="#drop" fill="#e80410" transform="translate(30 17)"/>
+    <use href="#drop" fill="#185c2c" transform="translate(18 22.5) rotate(-31)"/>
+    <use href="#drop" fill="#d8ac00" transform="translate(18 38.5) rotate(-149)"/>
+    <use href="#drop" fill="#143c70" transform="translate(28.6 44) rotate(172)"/>
+  </g>
+</svg>
